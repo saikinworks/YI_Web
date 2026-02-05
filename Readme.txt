@@ -7,7 +7,7 @@
 •本人並不具備程式開發背景，故程式代碼由AI輔助完成。
 
 
-•發想,繪製及動態部分由@saikin_works (X) / @weiwei1016 (Plurk) 製作，無使用AI輔助。
+•繪製及動態部分由@saikin_works (X) / @weiwei1016 (Plurk) 製作，無使用AI輔助。
 
 
 
@@ -34,6 +34,7 @@ EN
 Web Version/網頁版本 : https://saikinworks.github.io/Yi_Web/   
 
 (推薦使用行動裝置 / Mobile devices recommended)
+
 
 
 
